@@ -1,5 +1,7 @@
-## Hey yo everything. welcome to my git guide
+<<<<<<< HEAD
+## Welcome to Git 
 
+--This is coming from dev-palash
+=======
 
-Yo johnny here
 ## i am from the feature branch
